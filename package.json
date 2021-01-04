@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/TinyPudding/Firebase-Webhook-Express-Default/issues"
   },
-  "homepage": "https://github.com/TinyPudding/Firebase-Webhook-Express-Default#readme"
+  "homepage": "https://github.com/TinyPudding/Firebase-Webhook-Express-Default#readme",
+  "dependencies": {
+    "puddy-lib": "git+https://github.com/TinyPudding/Puddy-Lib.git"
+  }
 }
