@@ -11,7 +11,7 @@ module.exports = function (data = {}) {
     };
 
     // Exist Data
-    if (data) {
+    if (typeof data !== "function" && typeof data !== "undefined" && data) {
 
         // Express
         if (data.express) {
@@ -82,11 +82,16 @@ module.exports = function (data = {}) {
 
     }
 
+    // Is Function
+    if (typeof data === "function") {
+        data = { post: data };
+    }
+
     // Post
-    if (path_page.post) {
+    if (path_page.post && typeof data.post === "function") {
 
         // Body Parser
-        if(bodyParser){
+        if (bodyParser) {
             app.post(path_page.post, bodyParser.text({ type: '*/*' }), data.post);
         }
 
