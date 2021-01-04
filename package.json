@@ -1,0 +1,22 @@
+{
+  "name": "firebase-webhook-express-default",
+  "version": "1.0.0",
+  "description": "Default Values from the Express of the Firebase Webhook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinyPudding/Firebase-Webhook-Express-Default.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Yasmin Seidel (JasminDreasond)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TinyPudding/Firebase-Webhook-Express-Default/issues"
+  },
+  "homepage": "https://github.com/TinyPudding/Firebase-Webhook-Express-Default#readme"
+}
