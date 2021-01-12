@@ -107,7 +107,7 @@ module.exports = function (data = {}) {
         app.get(path_page.get, (req, res) => {
 
             // HTTP Page
-            const http_page = require('puddy-lib/http/HTTP-1.0');
+            const http_page = require('@tinypudding/puddy-lib/http/HTTP-1.0');
             return http_page.send(res, 403);
 
         });
