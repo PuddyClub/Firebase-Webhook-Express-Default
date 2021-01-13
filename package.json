@@ -1,6 +1,6 @@
 {
   "name": "@tinypudding/firebase-webhook-express-default",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default Values from the Express of the Firebase Webhook.",
   "main": "index.js",
   "scripts": {
