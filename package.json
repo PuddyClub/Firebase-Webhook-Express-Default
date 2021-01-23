@@ -1,6 +1,6 @@
 {
   "name": "@tinypudding/firebase-webhook-express-default",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Default Values from the Express of the Firebase Webhook.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/TinyPudding/Firebase-Webhook-Express-Default#readme",
   "dependencies": {
-    "@tinypudding/puddy-lib": "^1.0.0"
+    "@tinypudding/puddy-lib": "^1.0.16"
   }
 }
