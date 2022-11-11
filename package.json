@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/TinyPudding/Firebase-Webhook-Express-Default#readme",
   "dependencies": {
-    "@tinypudding/puddy-lib": "^1.1.29"
+    "@tinypudding/puddy-lib": "^1.1.40"
   }
 }
