@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TinyPudding/Firebase-Webhook-Express-Default.git"
+    "url": "git+https://github.com/PuddyClub/Firebase-Webhook-Express-Default.git"
   },
   "keywords": [
     "express"
@@ -16,9 +16,9 @@
   "author": "Yasmin Seidel (JasminDreasond)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TinyPudding/Firebase-Webhook-Express-Default/issues"
+    "url": "https://github.com/PuddyClub/Firebase-Webhook-Express-Default/issues"
   },
-  "homepage": "https://github.com/TinyPudding/Firebase-Webhook-Express-Default#readme",
+  "homepage": "https://github.com/PuddyClub/Firebase-Webhook-Express-Default#readme",
   "dependencies": {
     "@tinypudding/puddy-lib": "^1.1.40"
   }
